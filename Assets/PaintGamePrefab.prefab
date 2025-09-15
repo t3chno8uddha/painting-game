@@ -811,7 +811,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelManager: {fileID: 944040875560411316}
   exitSlider: {fileID: 5769775975219572037}
-  mainCanvas: {fileID: 0}
+  mainCanvas: {fileID: 1147423382347447113}
 --- !u!1 &564169986414803154
 GameObject:
   m_ObjectHideFlags: 0
