@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: c732af67f042ffd468853e7d6623cc41
   m_currentHash:
     serializedVersion: 2
-    Hash: 174153a20c31b6a8b2b8a70448bafaed
+    Hash: 6234221f04083ea8803b84a8073e148e
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -70,9 +70,9 @@ MonoBehaviour:
       - m_Id: b45ee9d78064b6b4db28bb91cd1d9d61
         m_Value: 0.1.1
       - m_Id: 2138b2a60d1f94b4aadd991f5db90705
-        m_Value: ServerData/Neon_Drawing/[BuildTarget]/[BundleVersion]/
+        m_Value: ServerData/Painting/[BuildTarget]/[BundleVersion]/
       - m_Id: 51385d3237bf1664c97fec8522038b26
-        m_Value: https://pub-f31afea62d87418fa9c9ecac93c4f272.r2.dev/Neon_Drawing/[BuildTarget]/[BundleVersion]/
+        m_Value: https://pub-f31afea62d87418fa9c9ecac93c4f272.r2.dev/Painting/[BuildTarget]/[BundleVersion]/
     m_ProfileEntryNames:
     - m_Id: f1e57dfb803992c47b866b8550c7675c
       m_Name: BuildTarget

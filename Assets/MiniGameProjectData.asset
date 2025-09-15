@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f827db118c145e3a8cf8a942c14f3da, type: 3}
   m_Name: MiniGameProjectData
   m_EditorClassIdentifier: 
-  Config: {fileID: 11400000, guid: cdb3adb5279c18b4a8ec679aeee03db2, type: 2}
+  Config: {fileID: 11400000, guid: a11fb6c9267c84fb29b3dbedae0da852, type: 2}
   CodeRepositoryFolder: {fileID: 102900000, guid: 6e92b3e54cd7ba24589506490a730f03, type: 3}
-  AssemblyAsset: {fileID: 5897886265953266890, guid: 187a50616f544a0429a0420eb1ca7c8b, type: 3}
-  Package: {fileID: 4900000, guid: 2c13127b4da97064c8e7aca9aea5e3ea, type: 3}
+  AssemblyAsset: {fileID: 5897886265953266890, guid: 52907ec0f83e8034cba61456dea2830f, type: 3}
+  Package: {fileID: 4900000, guid: 16450f7b38d845556a3c050b7e9be782, type: 3}
